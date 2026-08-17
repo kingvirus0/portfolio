@@ -106,11 +106,11 @@ I'm actively pursuing remote, paid internships (GitHub Octernships ✓ Nigeria-e
 
 ---
 
-## 📄 CV
+## 📄 CV & Resume
 
-**[Download my CV (PDF)](cv/abdulrahman_munir_cv.pdf)** · [Source (LaTeX)](cv/abdulrahman_munir_cv.tex)
+**[Download my CV (PDF)](cv/abdulrahman_munir_cv.pdf)** — ML Engineer · Low-Resource NLP & ASR (2 pages) · [Source (LaTeX)](cv/abdulrahman_munir_cv.tex)
 
-*AI/ML Specialist · Full Stack Developer · Data Analyst — Hausa Speech-to-Text (ASR) & Transcription*
+**[Download my Resume (PDF)](cv/resume_abdulrahman_munir.pdf)** — Full Stack Developer (1 page) · [Source (LaTeX)](cv/resume_abdulrahman_munir.tex)
 
 ---
 

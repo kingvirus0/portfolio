@@ -1,0 +1,72 @@
+% ===========================================================================
+% Abdulrahman Munir — Resume (Full Stack Developer, 1 page)
+% Compile: pdflatex resume_abdulrahman_munir.tex
+% ===========================================================================
+\documentclass[10pt,a4paper,sans]{moderncv}
+
+\moderncvstyle[nosymbols]{casual}
+\moderncvcolor{blue}
+\renewcommand*{\labelitemi}{\strut\textcolor{color1}{\textbullet}}
+\renewcommand*{\labelitemii}{\strut\textcolor{color1}{\textendash}}
+\renewcommand*{\labelitemiii}{\strut\textcolor{color1}{\textperiodcentered}}
+\renewcommand*{\labelitemiv}{\strut\textcolor{color1}{\textasteriskcentered}}
+\microtypesetup{expansion=false}
+\usepackage[scale=0.72]{geometry}
+
+\name{Abdulrahman}{Munir}
+\title{Full Stack Developer}
+\email{kingvirus114@gmail.com}
+\extrainfo{GitHub: github.com/kingvirus0}
+\address{Abuja}{Nigeria}
+\phone[mobile]{+2347034119314}
+
+\begin{document}
+\makecvtitle
+
+% =========================================================================
+\section{Profile}
+\cvline{}{Full stack developer who ships products end-to-end---React/Node.js front to Python API and database---with an AI/ML edge from building speech-to-text and low-resource NLP systems (native Hausa speaker). Comfortable across the whole stack, quick to pick up new tools, pattern-oriented, and strong with written communication. Looking to grow with a small engineering team. Open to internships and junior roles.}
+
+% =========================================================================
+\section{Skills}
+\cvdoubleitem{Languages}{Python, JavaScript/TypeScript, Kotlin, Bash}{Web}{React, Node.js, HTML/CSS, REST APIs, WebSockets}
+\cvdoubleitem{Backend}{FastAPI, Flask, Express, SQL, Django (learning)}{AI/ML}{PyTorch, Transformers, Whisper, pandas, NumPy, scikit-learn}
+\cvdoubleitem{Data}{pandas, SQL, visualization (Matplotlib/Seaborn), cleaning}{Dev}{Git, Docker, Linux, AWS (S3/EC2), ffmpeg}
+
+% =========================================================================
+\section{Experience}
+\cventry{2025}{Image Annotation for Object Detection (Contract)}{Independent / client-contracted}{Nigeria}{}{\begin{itemize}
+\item Labelled object-detection datasets in Pascal VOC/YOLO formats; kept annotation quality consistent for a model training pipeline.
+\end{itemize}}
+
+% =========================================================================
+\section{Projects}
+\cventry{2024 -- Present}{\textbf{ÌròyìnCheck} --- Multi-Platform News-Checking Bot}{}{\textbf{\textit{Node.js, Baileys v7, Telegram/Discord}}}{\begin{itemize}
+\item Fact-checking bot delivered across WhatsApp, Telegram and Discord from one resilient Node.js codebase---three platforms, a single deployment with message queues and rate limiting.
+\end{itemize}}
+
+\cventry{2024 -- Present}{\textbf{AthenA} --- Voice Assistant with Speech-to-Text}{}{\textbf{\textit{Python, React, STT/TTS}}}{\begin{itemize}
+\item Local-first AI voice assistant: Python backend, React UI, on-device speech-to-text, TTS and a wake-word demo.
+\end{itemize}}
+
+\cventry{2024 -- Present}{\textbf{Hausa Speech-to-Text \& Transcription System}}{}{\textbf{\textit{Python, Whisper, PyTorch, Hugging Face}}}{\begin{itemize}
+\item Fine-tuned Whisper and wav2vec2-XLSR on the low-resource \textbf{Mozilla Common Voice Hausa} corpus (10,450 clips, 12.6h; only 4.2h validated) plus self-collected recordings; end-to-end pipeline with VAD, denoising, dual-script (boko/ajami) output.
+\end{itemize}}
+
+\cventry{2024 -- Present}{\textbf{Qur'an Recitation Video Generator}}{}{\textbf{\textit{Python, ffmpeg, SRT}}}{\begin{itemize}
+\item Renders recitation videos with word-by-word Arabic subtitles synced to audio via an SRT timing pipeline.
+\end{itemize}}
+
+% =========================================================================
+\section{Education}
+\cventry{2023 -- Present}{B.Eng. Computer Engineering}{Federal University of Technology, Minna}{Nigeria}{}{\begin{itemize}
+\item Coursework: Machine Learning, Deep Learning, NLP, Data Structures, Statistics.
+\end{itemize}}
+
+% =========================================================================
+\section{Languages}
+\cvlanguage{English}{Working proficiency}{Read, write, speak}
+\cvlanguage{Hausa}{Native}{Read, write, speak}
+\cvlanguage{Arabic}{Native-level from childhood education}{Read, write, speak}
+
+\end{document}
