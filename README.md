@@ -100,6 +100,12 @@ Running an **autonomous viral-content agent** toward **100k TikTok followers / 1
 
 ---
 
+## 🎀 Internships
+
+I'm actively pursuing remote, paid internships (GitHub Octernships ✓ Nigeria-eligible, Outreachy, GSoC, UNDP AI). See my **[Internship Action Plan](INTERNSHIPS.md)** — verified opportunities, deadlines, and the exact steps to land one.
+
+---
+
 ## 📄 CV
 
 **[Download my CV (PDF)](cv/abdulrahman_munir_cv.pdf)** · [Source (LaTeX)](cv/abdulrahman_munir_cv.tex)
