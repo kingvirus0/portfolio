@@ -5,8 +5,8 @@
 <h1 align="center">Abdulrahman Munir · kingvirus0</h1>
 
 <p align="center">
-  <b>AI / ML Specialist · Automation Engineer · Builder</b><br/>
-  <i>Hausa Speech-to-Text (ASR) & Transcription · Agentic AI · Content Automation</i>
+  <b>AI / ML Specialist · Full Stack Developer · Data Analyst</b><br/>
+  <i>Hausa Speech-to-Text (ASR) & Transcription · Agentic AI · Content Automation · Learning 3D, AutoCAD & PCB Design</i>
 </p>
 
 <p align="center">
@@ -81,12 +81,16 @@
 
 | | | |
 |---|---|---|
+| **Full Stack** | React, Node.js, Kotlin/Compose, Python, REST APIs, SQL | end-to-end apps |
 | **AI/ML** | Python, PyTorch, Whisper, Gemma 4, OpenRouter, Google GenAI | ASR, transcription, RAG, agents |
 | **Agentic AI** | opencode, Hermes, VOCAL framework | autonomous agents, tool use, workflows |
 | **Mobile** | Kotlin, Jetpack Compose, Room, Hilt | native Android apps |
+| **Data Analysis** | Python, pandas, SQL, visualization | insights, dashboards, reporting |
 | **Automation** | Python, FFmpeg, CDP/Playwright, firecrawl | content pipelines, video, scraping |
 | **Backend** | Node.js, Baileys (WhatsApp), Telegram/Discord APIs | bots, APIs, messaging |
 | **Content** | DaVinci Resolve, FFmpeg, TTS, AI video | faceless channels, short-form |
+| **3D & CAD** | Learning 3D modeling & animation, AutoCAD | product & engineering design |
+| **Hardware** | Learning PCB design & electronics | printed circuit boards, embedded |
 
 ---
 
@@ -100,7 +104,7 @@ Running an **autonomous viral-content agent** toward **100k TikTok followers / 1
 
 **[Download my CV (PDF)](cv/abdulrahman_munir_cv.pdf)** · [Source (LaTeX)](cv/abdulrahman_munir_cv.tex)
 
-*AI/ML Specialist — Hausa Speech-to-Text (ASR) & Transcription*
+*AI/ML Specialist · Full Stack Developer · Data Analyst — Hausa Speech-to-Text (ASR) & Transcription*
 
 ---
 
